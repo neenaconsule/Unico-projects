@@ -1,0 +1,9 @@
+<advancedpdftemplate scriptid="custtmpl_108_436200_sb1_705" standard="STDTMPLBOM">
+  <description></description>
+  <displaysourcecode>T</displaysourcecode>
+  <isinactive>F</isinactive>
+  <preferred>F</preferred>
+  <printtype>BOM</printtype>
+  <title>Custom Bill of Materials PDF/HTML Template</title>
+  <trantype>WORKORD</trantype>
+</advancedpdftemplate>
